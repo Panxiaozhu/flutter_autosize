@@ -1,6 +1,9 @@
-[![Pub]](https://pub.flutter-io.cn/packages/flutter_autosize)
 # flutter_autosize
 计算百分比的屏幕适配库
+
+## pub
+
+[[Pub 0.0.5]](https://pub.flutter-io.cn/packages/flutter_autosize)
 
 ## Getting Started
 基于UI给定的设计图，以宽度或高度为基准，动态计算拉伸的逻辑像素，达到保持拉伸不变形

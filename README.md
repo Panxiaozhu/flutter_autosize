@@ -1,4 +1,4 @@
-[![Pub](https://img.shields.io/pub/v/simple_animations.svg)](https://pub.flutter-io.cn/packages/flutter_autosize)
+[![Pub]](https://pub.flutter-io.cn/packages/flutter_autosize)
 # flutter_autosize
 计算百分比的屏幕适配库
 

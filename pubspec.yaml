@@ -1,7 +1,7 @@
 name: flutter_autosize
 description: A flutter package for adapting screen base on width or height
-version: 0.0.5
-homepage: https://github.com/Panxiaozhu
+version: 0.0.6
+homepage: https://github.com/Panxiaozhu/flutter_autosize
 
 environment:
   sdk: ">=2.7.0 <3.0.0"

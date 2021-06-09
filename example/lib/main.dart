@@ -38,15 +38,15 @@ class BaseOnWidthState extends State<BaseOnWidth> {
 
   @override
   Widget build(BuildContext context) {
-    AutoSize().initSetting(context, 768, 1920);
+    AutoSize().initSetting(context, 750, 1334);
     return Scaffold(
         appBar: AppBar(
           title: Text('以宽为基准适配'),
         ),
         body: Container(
         color: Colors.green,
-    width: AutoSize().width(768/2),
-    height: AutoSize().height(340),
+    width: AutoSize().width(375),
+    height: AutoSize().height(200),
     )
     );
   }

@@ -3,8 +3,8 @@ class AutoSize {
   static final AutoSize instant=AutoSize._();
 
   //设计图宽
-  double designWidthPx=768;
-  double designHeightPx=1280;
+  double designWidthPx=750;
+  double designHeightPx=1334;
 
   //当前设备宽度逻辑像素
   double screenWidth=1;

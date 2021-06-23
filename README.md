@@ -35,4 +35,4 @@ AutoSize().setAdapterMode(false);
 ```
 ### demo
 
-<img src="https://raw.githubusercontent.com/Panxiaozhu/flutter_autosize/master/img/asc.gif" width="232" height="426" >
+<img src="https://user-images.githubusercontent.com/12110768/123123399-61b03000-d479-11eb-8268-631ca592e3eb.gif" width="232" height="426" >
